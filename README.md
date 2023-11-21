@@ -1,9 +1,7 @@
 Wordguesser: a scaffolded (!) ESaaS getting-started assignment
 =============================================================
 
-(v1.1, September 2015.  Written by Armando Fox and Nick Herson)
-(some edits by mverdicchio 21 September 2015)
-(refinements by Armando Fox September 2017)
+
 
 In this assignment you'll be introduced to part of the basic cycle of creating SaaS in a disciplined way.
 
